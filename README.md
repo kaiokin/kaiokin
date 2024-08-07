@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaiokin
-- 👀 I’m interested in ...WEB developpement
+- 👀 I’m interested in ...WEB development
 - 🌱 I’m currently learning ...PHP
 - 📫 How to reach me ...sabriamine101@gmail.com
 
