@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kaiokin
+- 👋 Hi, I’m @SABRI Ahmed Amine
 - 👀 I’m interested in ...WEB development & Mobile Applications
-- 🌱 I’m currently learning ...React JS
+- 🌱 I’m currently learning ...Next JS
 - 📫 How to reach me ...sabriamine101@gmail.com
 
 <!---
